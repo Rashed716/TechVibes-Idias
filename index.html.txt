@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>আমার বিজনেস</title>
+    <style>
+        body { font-family: Arial; margin: 0; background-color: #f5f5f5; }
+        header { background-color: #2c3e50; color: white; padding: 20px; text-align: center; }
+        nav { background-color: #34495e; padding: 10px; text-align: center; }
+        nav a { color: white; text-decoration: none; margin: 10px; }
+        section { padding: 20px; text-align: center; }
+        footer { background-color: #2c3e50; color: white; text-align: center; padding: 10px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>আমার বিজনেস</h1>
+    <p>সেরা সেবা, সেরা মান</p>
+</header>
+
+<nav>
+    <a href="#">হোম</a>
+    <a href="#">আমাদের সম্পর্কে</a>
+    <a href="#">সেবা সমূহ</a>
+    <a href="#">যোগাযোগ</a>
+</nav>
+
+<section>
+    <h2>আমাদের সেবা</h2>
+    <p>আমরা আপনার ব্যবসার জন্য উন্নতমানের সার্ভিস দিয়ে থাকি।</p>
+</section>
+
+<footer>
+    &copy; ২০২৫ আমার বিজনেস | সর্বস্বত্ব সংরক্ষিত
+</footer>
+
+</body>
+</html>
+
